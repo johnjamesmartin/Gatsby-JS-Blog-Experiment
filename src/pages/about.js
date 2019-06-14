@@ -1,12 +1,12 @@
 import React from "react"
 
-const IndexPage = () => {
+const AboutPage = () => {
   return (
     <div>
-      <h1>Hello</h1>
+      <h1>About</h1>
       <h2>This is a description</h2>
     </div>
   )
 }
 
-export default IndexPage
+export default AboutPage
