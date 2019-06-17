@@ -5,6 +5,8 @@ date: "2019-01-01"
 
 I just launched a new bootcamp!
 
+![Image of code](./code.jpeg)
+
 ## Topics covered
 
 1. Gatsby
