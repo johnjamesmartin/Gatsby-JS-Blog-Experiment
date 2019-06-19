@@ -10,6 +10,14 @@ module.exports = {
     author: "John Martin",
   },
   plugins: [
+    {
+      resolve: `gatsby-source-contentful`,
+      options: {
+        spaceId: `okmtofxa6tf6`,
+        // Learn about environment variables: https://gatsby.dev/env-vars
+        accessToken: `6kSTu88qvcV-KGuUTllTO6k7Ut9Bz5E-5ImVcERa4iY`,
+      },
+    },
     "gatsby-plugin-sass",
     {
       resolve: "gatsby-source-filesystem",
